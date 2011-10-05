@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest>
+	<field key="author" value="ColdTrick IT Solutions" />
+	<field key="version" value="1.0.1" />
+	<field key="description" value="A small fix plugin that sets the owner of plugins to the Site" />
+	<field key="website" value="http://www.coldtrick.com/" />
+	<field key="copyright" value="(C) ColdTrick 2010" />
+	<field key="licence" value="GNU Public License version 2" />
+	<field key="elgg_version" value="2009031301" />
+</plugin_manifest>
+<!--
+
+=====================
+Version history
+=====================
+1.0.1 (2010-08-16):
+	- fixed: preserving plugin order
+
+1.0:
+	- initial version
+-->
